@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">Hey, Ananya Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <br>
-  - :school: I'm sophomore at Shri Ramswaroop Memorial Group of Professional Colleges, Uttar Pradesh <br>
+  - :school: Sophomore at Shri Ramswaroop Memorial Group of Professional Colleges, Uttar Pradesh <br>
   - :computer: Stream: Computer Science<br>
   - :smile: Open Source Enthusiast<br>
   - 🤔 Exploring Competitive Coding <br>
