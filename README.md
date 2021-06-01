@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-
-[![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananya-Misra&theme=xcode&show_icons=true)](https://github.com/Ananya-Misra/github-readme-stats)
+[![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananya-Misra&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/Ananya-Misra/github-readme-stats)
 &nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Misra&theme=xcode&layout=compact)](https://github.com/Ananya-Misra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Misra&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/Ananya-Misra/github-readme-stats)
 <h2 align="center">Git-Hub Streak !! :fire:</h2> 
 <p  align="center">
-<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya-Misra&theme=xcode)" alt="Ananya Misra" />
+<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya-Misra&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)" alt="Ananya Misra" />
 </p>
 <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
