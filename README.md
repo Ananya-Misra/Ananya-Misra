@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-[![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananya-Misra&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=151515&bg_color=151515)](https://github.com/Ananya-Misra/github-readme-stats)
+[![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananya-Misra&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=151515)](https://github.com/Ananya-Misra/github-readme-stats)
 &nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Misra&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=151515)](https://github.com/Ananya-Misra/github-readme-stats)
 <h2 align="center">Git-Hub Streak !! :fire:</h2> 
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 </p>
 <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=Ananya-Misra" alt="Contribution Graph" align="center" />
+   <img src="https://activity-graph.herokuapp.com/graph?username=Ananya-Misra&bg_color=151515" alt="Contribution Graph" align="center" />
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Ananya-Misra/count.svg" alt="Visitor Count" /></h2>
 <h3 align="center">Show some :heart: by starring some of my repositories! </h3>
