@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Misra&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=151515)](https://github.com/Ananya-Misra/github-readme-stats)
 <h2 align="center">Git-Hub Streak !! :fire:</h2> 
 <p  align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya-Misra&&bg_color=151515)" alt="Ananya Misra" />
+<img bg_color="151515" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya-Misra&bg_color=151515)" alt="Ananya Misra" />
 </p>
 <!-- <summary>:chart_with_upwards_trend: Contribution Graph &theme=xcode</summary>
    <br/> -->
