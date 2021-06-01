@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <p  align="center">
 <img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya-Misra&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)" alt="Ananya Misra" />
 </p>
-<summary>:chart_with_upwards_trend: Contribution Graph </summary>
-   <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=Ananya-Misra&bg_color=151515&text_color=ffffff" alt="Contribution Graph" align="center" />
+<!-- <summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <br/> -->
+   <img src="https://activity-graph.herokuapp.com/graph?username=Ananya-Misra&bg_color=151515" alt="Contribution Graph" align="center" />
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Ananya-Misra/count.svg" alt="Visitor Count" /></h2>
 <h3 align="center">Show some :heart: by starring some of my repositories! </h3>
