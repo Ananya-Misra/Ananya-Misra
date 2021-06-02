@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 [![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananya-Misra&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=151515)](https://github.com/Ananya-Misra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Misra&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=151515)](https://github.com/Ananya-Misra/github-readme-stats)
 <h2 align="center">Git-Hub Streak !! :fire:</h2> 
-<div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ananya-Misra&theme=dark)](https://git.io/streak-stats)"
-  </div>
+
+(https://github-readme-streak-stats.herokuapp.com/?user=Ananya-Misra&theme=dark)](https://git.io/streak-stats)"
+
 
 
 <!-- <summary>:chart_with_upwards_trend: Contribution Graph &theme=xcode</summary>
