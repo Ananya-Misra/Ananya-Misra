@@ -31,10 +31,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ananya-Misra&theme=dark&ring=bb2acf&fire=bb2acf&currStreakLabel=bb2acf)](https://git.io/streak-stats)" 
   </div>
 
-
-
-<!-- <summary>:chart_with_upwards_trend: Contribution Graph &theme=xcode</summary>
-   <br/> -->
+   <h2 align="center"> Contribution Graph !! :chart_with_upwards_trend: </h2>
    <img src="https://activity-graph.herokuapp.com/graph?username=Ananya-Misra&bg_color=151515" alt="Contribution Graph" align="center" />
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Ananya-Misra/count.svg" alt="Visitor Count" /></h2>
 <h3 align="center">Show some :heart: by starring some of my repositories! </h3>
