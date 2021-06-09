@@ -1,19 +1,3 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**Ananya-Misra/Ananya-Misra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2 align="center">Hey, Ananya Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <br>
   - :school: Sophomore at Shri Ramswaroop Memorial Group of Professional Colleges, Uttar Pradesh <br>
@@ -32,6 +16,6 @@ Here are some ideas to get you started:
   </div>
 
    <h2 align="center"> Contribution Graph !! :chart_with_upwards_trend: </h2>
-   <img src="https://activity-graph.herokuapp.com/graph?username=Ananya-Misra&bg_color=151515" alt="Contribution Graph" align="center" />
+   <img src="https://activity-graph.herokuapp.com/graph?username=Ananya-Misra&point=ffffff&line=bb2acf&color=bb2acf&bg_color=151515" alt="Contribution Graph" align="center" />
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Ananya-Misra/count.svg" alt="Visitor Count" /></h2>
 <h3 align="center">Show some :heart: by starring some of my repositories! </h3>
