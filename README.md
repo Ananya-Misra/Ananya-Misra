@@ -12,7 +12,7 @@
 <div align="center">
 <h2 align="center">Git-Hub Streak !! :fire:</h2> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ananya-Misra&theme=dark&ring=bb2acf&fire=bb2acf&currStreakLabel=bb2acf)](https://git.io/streak-stats)" 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ananya-Misra&theme=dark&ring=bb2acf&fire=bb2acf&currStreakLabel=bb2acf)](https://git.io/streak-stats) 
   </div>
 
 <!--    <h2 align="center"> Contribution Graph !! :chart_with_upwards_trend: </h2>
