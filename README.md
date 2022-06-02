@@ -1,9 +1,8 @@
-<h2 align="center">Hey, Ananya Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="center">Hey, Ananya Here !! :wave: </h2>
 <br>
   - :school: Pursuing my B.Tech at Shri Ramswaroop College Of Engineering and Management, Uttar Pradesh <br>
   - :computer: Stream: Computer Science<br>
   - :smile: Open Source Enthusiast<br>
-  - 🤔 Exploring Competitive Coding <br>
 <br>
 <br>
 
